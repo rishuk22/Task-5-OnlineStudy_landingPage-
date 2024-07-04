@@ -1,0 +1,15 @@
+.landing-page {
+    padding: 2em;
+  }
+  
+  .image-gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .image-gallery img {
+    max-width: 200px;
+    margin: 1em;
+  }
+  
